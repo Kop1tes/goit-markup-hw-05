@@ -583,7 +583,7 @@ img {
 }
 
 .projects-list-link {
-  transition: border var(--anim-slow), box-shadow var(--anim-slow);
+  transition: box-shadow var(--anim-slow);
 }
 
 .projects-overlay {
